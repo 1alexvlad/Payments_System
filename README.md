@@ -26,3 +26,10 @@ POST /api/webhook/bank/
 GET /api/organizations/<inn>/balance/
 ```
 
+### Для запуска требуется 
+* создать виратульное окружение 
+* активировать ее
+* скачать зависимоти из файла requirements.txt
+* запустить сервер python manage.py runserver
+
+
